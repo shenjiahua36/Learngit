@@ -8,4 +8,4 @@ git is 999
 git is 1
 git is 2
 i create a new master
-i want conflict
+i will resolve the conflict
