@@ -8,3 +8,5 @@ git is 999
 git is 1
 git is 2
 i create a new master
+new() a master name is feature1
+
